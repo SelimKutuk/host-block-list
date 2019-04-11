@@ -1,4 +1,3 @@
--引自小米净化APP-
 a.stat.xiaomi.com
 a.union.mi.com
 abtest.mistat.xiaomi.com
